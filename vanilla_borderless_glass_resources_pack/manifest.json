@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds borderless glass to Minecraft Bedrock by El Oso Arcade",
+        "name": "Vanilla Borderless Glass (R)",
+        "uuid": "b2bd6b47-d130-4a60-b394-9118768dbfad",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 26, 10 ]
+    },
+	  "metadata": {
+	  	"authors": ["El Oso Arcade"],
+	  	"license": "CC BY-NC-ND 4.0 - Vanilla Borderless Glass MCBE Texture Pack",
+	  	"product_type": "addon",
+	  	"url": "https://github.com/elosoarcade/vanilla-borderless-glass"
+	  },    
+    "modules": [
+        {
+            "description": "Resource pack",
+            "type": "resources",
+            "uuid": "530d18cd-5609-4bc3-aa68-d7be7eea45eb",
+            "version": [1, 0, 0]
+        }
+    ]
+}
